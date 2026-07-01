@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6n0107/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0107/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘百法明門論開宗義記
+  identifiers:
+    krp: KR6n0107
+    cbeta: T85n2810
+    cbeta_old_id: T85n2810
+    authorityid: CA0004830
+    json_key: T2810
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2810.xml
+    old_id: T85n2810
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0107_000-T.yaml, hash: 'sha256:2fd07c4989863311228de179a9f65f37f2e3a2da40d98e6344fc6877d57abd90'}
+  - {seq: 1, filename: KR6n0107_001-T.yaml, hash: 'sha256:7498484512fe0a877c60e4656c8df3a58f12eda292f93a6752eca93649380acd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0107_000-T.markers.yaml, hash: 'sha256:6311f9fbbd56a025788e7d29465704180be4fea53c8b372b420ceda79a599838'}
+  - {seq: 1, role: markers, filename: assets/KR6n0107_001-T.markers.yaml, hash: 'sha256:ef7ad83e71fc3165b08cce9a4d88a9dc145f23df67ca83fdf437163eb2e81d3d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0107_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 28064
+  label: 大乘百法明門論開宗義記
+  type: juan
+  level: 1
+hash: sha256:d3a8b753799aabdceb33af0ce8decb435e2e7fb511d463deddd25838c7f442ff

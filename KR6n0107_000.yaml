@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0107/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘百法明門論開宗義記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2810.xml
+    old_id: T85n2810
+hash: sha256:2fd07c4989863311228de179a9f65f37f2e3a2da40d98e6344fc6877d57abd90
