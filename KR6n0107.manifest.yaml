@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0107_000.yaml, hash: 'sha256:2fd07c4989863311228de179a9f65f37f2e3a2da40d98e6344fc6877d57abd90'}
-  - {seq: 1, filename: KR6n0107_001.yaml, hash: 'sha256:bba1361a84aabcfa6276a2710ae69fffe3269db2d00f3454f512b26b7a818891'}
+  - {seq: 1, filename: KR6n0107_001.yaml, hash: 'sha256:7498484512fe0a877c60e4656c8df3a58f12eda292f93a6752eca93649380acd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0107_001.markers.yaml, hash: 'sha256:917bbb851566c0c3f6f5b5b3b9caed21ffa4e3a1646c10eaf734aa9f0b8abaa3'}
+  - {seq: 0, role: markers, filename: assets/KR6n0107_000.markers.yaml, hash: 'sha256:ce664e97716d424f1e5c8628a88949cfd00bbf9546caaf30977d715bca302528'}
+  - {seq: 1, role: markers, filename: assets/KR6n0107_001.markers.yaml, hash: 'sha256:e3e3aaffc55ce1b374834b24af94eedcc4bd0648083cda83d62c7ba0a0c60b92'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大乘百法明門論開宗義記
   type: juan
   level: 1
-hash: sha256:afe437a89b689b088a7b92c1864f54a8bdd6cc22b1bcdefaef76d62449e0a0df
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1a6df6998d6789978148bb854811ebe3cdb06760fe452ccd80e6c43f863cde92
